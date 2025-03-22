@@ -31,3 +31,28 @@
 ## Agent框架
 - [Letta](https://www.letta.com/)
 - [LangGrph](https://www.langchain.com/langgraph)
+- [AutoGen](https://microsoft.github.io/autogen/stable//index.html)
+- [llamaindex](https://www.llamaindex.ai/)
+- [CrewAi](https://www.crewai.com/)
+- [DSPy](https://dspy.ai/)
+- [phidata](https://docs.phidata.com/introduction)
+- [semantic kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+- [autoGPT](https://agpt.co/)
+
+## 记忆模块
+- [MemGPT](https://www.letta.com/)
+- [Zep](https://www.getzep.com/)
+- [LangMem](https://langchain-ai.github.io/langmem/)
+- [mem0](https://mem0.ai/)
+
+
+
+
+
+
+
+
+
+
+
+
