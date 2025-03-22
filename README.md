@@ -45,7 +45,25 @@
 - [LangMem](https://langchain-ai.github.io/langmem/)
 - [mem0](https://mem0.ai/)
 
+## 工具库
+- [composio](https://composio.dev/)
+- [browserbase](https://www.browserbase.com/)
+- [exa](https://exa.ai/)
 
+## 沙盒
+- [E2B](https://e2b.dev/)
+- [modal](https://modal.com/docs)
+
+## 模型服务
+- [ollama](https://ollama.com/)
+- [LM Studio](https://lmstudio.ai/)
+- [SGL](https://sgl.services/artificial-intelligence/)
+- [together.ai/](http://together.ai/)
+- [FireworksAI](https://fireworks.ai/)
+- [groq](https://groq.com/)
+- [OpenAI](https://openai.com/)
+- [anthropic](https://www.anthropic.com/)
+- [gemini](https://gemini.google.com/app)
 
 
 
