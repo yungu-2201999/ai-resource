@@ -65,7 +65,14 @@
 - [anthropic](https://www.anthropic.com/)
 - [gemini](https://gemini.google.com/app)
 
-
+## 存储
+- [Chroma](https://www.trychroma.com/)
+- [Qdrant](https://qdrant.tech/)
+- [milvus](https://milvus.io/zh)
+- [Pinecone](https://www.pinecone.io/)
+- [Weaviate](https://weaviate.io/)
+- [NEON](https://neon.tech/)
+- [supabase](https://supabase.com/)
 
 
 
